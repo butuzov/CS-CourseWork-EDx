@@ -4,7 +4,7 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 
 ### [Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html)
 
-- [ ] Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
+- [x] Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
 
 - [ ] Implement [Water](http://docs.cs50.net/problems/water/water.html)
 
