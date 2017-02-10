@@ -6,7 +6,7 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 
 - [x] Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
 
-- [ ] Implement [Water](http://docs.cs50.net/problems/water/water.html)
+- [x] Implement [Water](http://docs.cs50.net/problems/water/water.html)
 
 Implement either of:
   * [ ] [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable
