@@ -55,7 +55,7 @@ Implement either of:
   * [ ] [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
   * [ ] [Resize](http://docs.cs50.net/problems/resize/more/resize.html), more comfortable
 
-- [ ] Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
+- [x] Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
 
 
 ### [Problem Set 5: Mispellings](http://docs.cs50.net/2017/x/psets/5/pset5.html)
