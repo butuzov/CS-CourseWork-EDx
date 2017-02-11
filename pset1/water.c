@@ -1,5 +1,11 @@
-// Description  : http://docs.cs50.net/problems/water/water.html
-// Testing      : check50 2016.water water.c
+/****************************************************************************
+ * water.c
+ *
+ * Ask user for a number of minutes and prints number of bottles .
+ *
+ * Description  : http://docs.cs50.net/problems/water/water.html
+ * Testing      : check50 2016.water water.c
+ ***************************************************************************/
 
 #include <stdio.h>
 #include <cs50.h>
