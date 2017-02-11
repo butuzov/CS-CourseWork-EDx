@@ -1,6 +1,15 @@
-## CS50 Problem Sets for 2016/2017 and 2014 Courses.
+# CS50x Problem Sets for 2016/2017 and 2014 Courses.
 
-This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx) [CS50 (2016-1017)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) and [CS50 2014 (Ukrainian)](https://courses.prometheus.org.ua/courses/Prometheus/CS50/2016_T1/about) problem sets.
+This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx) [CS50x (2016-1017)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) and [CS50x 2014 (Ukrainian)](https://courses.prometheus.org.ua/courses/Prometheus/CS50/2016_T1/about) problem sets.
+
+## Info
+
+ Run `C` code on MacOSx using `gcc` compiler (comes with XCode).
+ ```c
+ gcc -o - -std=c99 -lcs50 program program.c
+ ```
+
+## List of the Problems
 
 ### [Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html)
 
