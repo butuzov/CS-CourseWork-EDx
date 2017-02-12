@@ -18,8 +18,8 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 - [x] Implement [Water](http://docs.cs50.net/problems/water/water.html)
 
 Implement either of:
-  * [ ] [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable
-  * [ ] [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable
+  * [x] [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable
+  * [x] [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable
 
 Implement either of:
   * [ ] [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
