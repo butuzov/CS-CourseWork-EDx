@@ -28,8 +28,8 @@ Implement either of:
 ### [Problem Set 2: Crypto](http://docs.cs50.net/2017/x/psets/2/pset2.html)
 
 Implement either of:
-  * [ ] [Initials](http://docs.cs50.net/problems/initials/less/initials.html), less comfortable
-  * [ ] [Initials](http://docs.cs50.net/problems/initials/more/initials.html), more comfortable
+  * [x] [Initials](http://docs.cs50.net/problems/initials/less/initials.html), less comfortable
+  * [x] [Initials](http://docs.cs50.net/problems/initials/more/initials.html), more comfortable
 
 Implement any two (2) of:
   * [ ] [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
