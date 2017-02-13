@@ -22,7 +22,7 @@ Implement either of:
 
 Implement either of:
   * [x] [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
-  * [ ] [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable
+  * [x] [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable
 
 
 ### [Problem Set 2: Crypto](http://docs.cs50.net/2017/x/psets/2/pset2.html)
