@@ -5,9 +5,8 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 ## Info
 
  Run `C` code on MacOSx using `gcc` compiler (comes with XCode).
- ```c
- gcc -o - -std=c99 -lcs50 program program.c
- ```
+
+ ```gcc -o - -std=c99 -lcs50 program program.c ```
 
 ## List of the Problems
 
@@ -22,7 +21,7 @@ Implement either of:
   * [x] [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable
 
 Implement either of:
-  * [ ] [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
+  * [x] [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
   * [ ] [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable
 
 
@@ -88,4 +87,4 @@ Implement any (one) of the below exactly as specified but in Python:
 
 ### [Problem Set 8: Mashup](http://docs.cs50.net/2017/x/psets/8/pset8.html)
 
-- [ ] Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in `pset8/mashup/`.
+- [ ] Implement [Mashup](http://docs.cs50.net/problems/mashup/mashup.html) in d `pset8/mashup/`
