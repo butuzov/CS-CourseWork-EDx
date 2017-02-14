@@ -8,14 +8,15 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 
 ### [Problem Set 1: C](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html)
 
-  * [x] Implement [Hello](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_hello_world)
-  * [x] [Mario](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_itsa_mario)
-  * [x] [Greedy](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_time_for_change)
+  * [x] Print [hello, world](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_hello_world)
+  * [x] Print a [Mario](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_itsa_mario)'s  half-pyramid in __Itsa Mario__
+  * [x] Implement [greedy](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_time_for_change) algorithm in __Time for Change__
 
 
 ### [Problem Set 2: Crypto](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html)
 
-  * [ ] [Caesar](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_hail_caesar)
-  * [ ] [Vigenere](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_parlez_vous_fran_ais)
+  * [ ] Implement [Caesar](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_hail_caesar)'s cipher in __Hail, Caesar!__
+  * [ ] Implement [Vigenère](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_parlez_vous_fran_ais)’s cipher in __Parlez-vous français?__
+
 
 `to be continued`
