@@ -6,16 +6,16 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 
 ## List of the Problems
 
-### [Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html)
+### [Problem Set 1: C](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html)
 
-  * [x] Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
-  * [x] [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable
-  * [x] [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable
+  * [x] Implement [Hello](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_hello_world)
+  * [x] [Mario](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_itsa_mario)
+  * [x] [Greedy](https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_time_for_change)
 
 
-### [Problem Set 2: Crypto](http://docs.cs50.net/2017/x/psets/2/pset2.html)
+### [Problem Set 2: Crypto](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html)
 
-  * [ ] [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
-  * [ ] [Vigenere](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable
+  * [ ] [Caesar](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_hail_caesar)
+  * [ ] [Vigenere](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_parlez_vous_fran_ais)
 
 `to be continued`

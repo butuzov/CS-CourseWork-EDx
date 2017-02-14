@@ -6,7 +6,7 @@
  *
  * Note         : This is alternative solution for greedy.c problem.
  * Usage        : ./greedy
- * Description  : http://docs.cs50.net/problems/greedy/greedy.html
+ * Description  : https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_time_for_change
  * Testing      : check50 2014/x/pset1/greedy greedy.c
  ***************************************************************************/
 

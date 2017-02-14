@@ -3,7 +3,7 @@
  *
  * Printing One size of mario pyramide.
  * Usage        : ./mario
- * Description  : http://docs.cs50.net/problems/mario/more/mario.html
+ * Description  : https://cdn.cs50.net/2014/x/psets/1/pset1/pset1.html#_itsa_mario
  * Testing      : check50 2014.fall.pset1.mario mario.c
  ***************************************************************************/
 
