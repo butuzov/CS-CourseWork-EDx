@@ -1,6 +1,6 @@
-# CS50x Problem Sets for 2016/2017 and 2014 Courses.
+# CS50x Problem Sets for 2016/2017.
 
-This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx) [CS50x (2016-1017)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) and [CS50x 2014 (Ukrainian)](https://courses.prometheus.org.ua/courses/Prometheus/CS50/2016_T1/about) problem sets.
+This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx) [CS50x (2016-1017)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) problem sets.
 
 ## Info - Compiling `C`
 
