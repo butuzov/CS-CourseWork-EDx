@@ -6,7 +6,7 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 
  Run `C` code on MacOSx using `gcc` compiler (comes with XCode).
 
- ```gcc -o - -std=c99 -lcs50 program program.c ```
+ ```gcc PROGRAM.c -o PROGRAM -I /usr/local/include -L /usr/local/lib -lcs50 -std=c99```
 
 ## List of the Problems
 
