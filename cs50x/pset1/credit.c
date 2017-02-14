@@ -64,7 +64,7 @@ int main(void){
     }
 
     printf( "INVALID\n" );
-    return 1;
+    return 0;
 }
 
 // Validating Credit Card Number using Luhn algoritm
