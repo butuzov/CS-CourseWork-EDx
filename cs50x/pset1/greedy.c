@@ -23,7 +23,7 @@ int main( void ) {
     } while ( num < 0.0 );
 
     // Well, its a way to convert float to to int.
-    left = (int) (num * 100);
+    left = (int) ( num * 1000 ) / 10;
 
     int coins[4] = { 25, 10, 5, 1 };
     int result   = 0; // Storing coins number here.
