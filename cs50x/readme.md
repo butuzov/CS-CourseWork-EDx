@@ -2,18 +2,22 @@
 
 This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx) [CS50x (2016-1017)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) and [CS50x 2014 (Ukrainian)](https://courses.prometheus.org.ua/courses/Prometheus/CS50/2016_T1/about) problem sets.
 
-## Info
+## Info - Compiling `C`
 
  Run `C` code on MacOSx using `gcc` compiler (comes with XCode).
 
- ```gcc PROGRAM.c -o PROGRAM -I /usr/local/include -L /usr/local/lib -lcs50 -std=c99```
+ ```gcc PROGRAM.c -o PROGRAM -std=c99 -I /usr/local/include -L /usr/local/lib -lcs50```
+
+Compile flags for Code Runner.
+
+ ```-std=c99 -I /usr/local/include -L /usr/local/lib -lcs50```
+
 
 ## List of the Problems
 
 ### [Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html)
 
 - [x] Implement [Hello](http://docs.cs50.net/problems/hello/hello.html)
-
 - [x] Implement [Water](http://docs.cs50.net/problems/water/water.html)
 
 Implement either of:
