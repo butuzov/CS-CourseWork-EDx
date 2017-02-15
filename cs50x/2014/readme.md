@@ -15,7 +15,7 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
 
 ### [Problem Set 2: Crypto](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html)
 
-  * [ ] Implement [Caesar](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_hail_caesar)'s cipher in __Hail, Caesar!__
+  * [x] Implement [Caesar](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_hail_caesar)'s cipher in __Hail, Caesar!__
   * [ ] Implement [Vigenère](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_parlez_vous_fran_ais)’s cipher in __Parlez-vous français?__
 
 

@@ -36,7 +36,7 @@ Implement either of:
   * [x] [Initials](http://docs.cs50.net/problems/initials/more/initials.html), more comfortable
 
 Implement any two (2) of:
-  * [ ] [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
+  * [x] [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
   * [ ] [Vigenere](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable
   * [ ] [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable
 
