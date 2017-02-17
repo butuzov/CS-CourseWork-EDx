@@ -38,7 +38,7 @@ Implement either of:
 Implement any two (2) of:
   * [x] [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable
   * [x] [Vigenere](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable
-  * [ ] [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable
+  * [x] [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable
 
 
 ### [Problem Set 3: Game of Fifteen](http://docs.cs50.net/2017/x/psets/3/pset3.html)
