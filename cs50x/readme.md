@@ -55,8 +55,8 @@ Implement either of:
 - [ ] Implement [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
 
 Implement either of:
-  * [ ] [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
-  * [ ] [Resize](http://docs.cs50.net/problems/resize/more/resize.html), more comfortable
+  * [x] [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
+  * [x] [Resize](http://docs.cs50.net/problems/resize/more/resize.html), more comfortable
 
 - [x] Implement [Recover](http://docs.cs50.net/problems/recover/recover.html)
 
