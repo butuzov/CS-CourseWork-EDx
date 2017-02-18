@@ -19,4 +19,8 @@ This is a code for some of the [HarvardX's](https://www.edx.org/school/harvardx)
   * [x] Implement [Vigenère](https://cdn.cs50.net/2014/x/psets/2/pset2/pset2.html#_parlez_vous_fran_ais)’s cipher in __Parlez-vous français?__
 
 
+### [Problem Set 3: Game of Fifteen](https://cdn.cs50.net/2014/x/psets/3/pset3/pset3.html)
+  * [ ] Implement Game of Fifteen
+  * [x] Implement [Sorting](https://cdn.cs50.net/2014/x/psets/3/pset3/pset3.html#_sorting)  and search algorithmes.
+
 `to be continued`
