@@ -44,7 +44,7 @@ Implement any two (2) of:
 ### [Problem Set 3: Game of Fifteen](http://docs.cs50.net/2017/x/psets/3/pset3.html)
 
 Implement either of:
-  * [ ] [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
+  * [x] [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
   * [ ] [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
 
 - [ ] Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
