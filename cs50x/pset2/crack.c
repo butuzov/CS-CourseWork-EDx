@@ -51,7 +51,7 @@ int main( int argc, char *argv[] ) {
     int isUp = 0, isLow = 0, isNum = 0;
 
     // Password Placeholder
-    char * Password;
+    char *Password;
     if ( debug == 0 && argc != 2 ) {
         printf("Usage: ./crack hash\n");
         return 1;
@@ -79,7 +79,7 @@ int main( int argc, char *argv[] ) {
 
 
     // Init
-    char * Salt;
+    char *Salt;
     Salt = (char*) malloc( 3 );
     strncpy(Salt, Password, 2 );
     Salt[2] = (char)0;
@@ -90,11 +90,6 @@ int main( int argc, char *argv[] ) {
     int *Chars;
     Chars = malloc( sizeof( int ) * ( Chars_ln ) );
     dictionary_of_chars( Chars,isUp,isLow,isNum );
-    // chekc this symbols
-    // for( int i =0; i < Chars_ln ; i++) {
-    //     printf("%c ", Chars[i]);
-    // }
-    // printf("\n");
 
     for ( int password_ln = 1; password_ln <= max_password_ln; password_ln++ ) {
 
@@ -105,15 +100,14 @@ int main( int argc, char *argv[] ) {
 
         // Length of dictionary string
         int dictionary_string_ln = total_passwords * password_ln;
-        //printf("\nlen of word list is %i\n", dictionary_string_ln);
-        //
-        // // Init
-        char * Dictionary = 0;
+
+        // Init
+        char *Dictionary = 0;
         Dictionary = (char*) malloc( dictionary_string_ln );
-        // //
-        // // // empty string
+
+        // empty string
         string init_pass = "";
-        // // Creating String of passwords
+        // Creating String of passwords
         dictionary_fill_with_words( Dictionary, Chars, Chars_ln, password_ln, 0,  init_pass);
 
         // /***************************************************************
@@ -122,10 +116,8 @@ int main( int argc, char *argv[] ) {
         // ****************************************************************/
 
         int n = password_ln +  1;
-        //
-        //
         for ( int i =0; i < total_passwords; i++) {
-            char * Word = 0;
+            char *Word = 0;
             Word = (char*) malloc( password_ln + 1 );
             strncpy(Word, Dictionary+(i*password_ln), password_ln);
             Word[password_ln] = (char)0;
@@ -161,7 +153,7 @@ int main( int argc, char *argv[] ) {
     free( Password );
     free( Salt );
 
-    printf("Pass Not Found");
+    // printf("Pass Not Found");
     return 1;
 }
 
