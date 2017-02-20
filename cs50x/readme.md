@@ -45,7 +45,7 @@ Implement any two (2) of:
 
 Implement either of:
   * [x] [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
-  * [ ] [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
+  * [x] [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
 
 - [ ] Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
 
