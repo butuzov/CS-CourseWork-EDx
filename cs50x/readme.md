@@ -47,7 +47,7 @@ Implement either of:
   * [x] [Find](http://docs.cs50.net/problems/find/less/find.html), less comfortable
   * [x] [Find](http://docs.cs50.net/problems/find/more/find.html), more comfortable
 
-- [ ] Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
+- [x] Implement [Game of Fifteen](http://docs.cs50.net/problems/fifteen/fifteen.html)
 
 
 ### [Problem Set 4: Forensics](http://docs.cs50.net/2017/x/psets/4/pset4.html)
