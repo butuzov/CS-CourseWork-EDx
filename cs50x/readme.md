@@ -52,7 +52,7 @@ Implement either of:
 
 ### [Problem Set 4: Forensics](http://docs.cs50.net/2017/x/psets/4/pset4.html)
 
-- [ ] Implement [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
+- [x] Implement [Whodunit](http://docs.cs50.net/problems/whodunit/whodunit.html)
 
 Implement either of:
   * [x] [Resize](http://docs.cs50.net/problems/resize/less/resize.html), less comfortable
