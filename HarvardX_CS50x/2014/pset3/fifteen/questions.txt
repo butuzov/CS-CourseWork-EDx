@@ -1,0 +1,10 @@
+Checking for Understanding
+
+  1. Besides 4 × 4 (which are Game of Fifteen’s dimensions), what other dimensions does the framework allow?
+    - MIN is 2 (its a smallest number that will allow free cell for "Blank" or NUll value.
+    - MAX IS 46340. Its a biggest number that we can multiply by 2, and still use to populate it by int values.
+
+  2. With what sort of data structure is the game’s board represented?
+    Array or Arrays of Ints or MultiDimensional (2d in our case) array as we call it.
+  3. `greet`
+  4. `init`, `draw`, `move` and `won`
