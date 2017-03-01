@@ -63,7 +63,7 @@ Implement either of:
 
 ### [Problem Set 5: Mispellings](http://docs.cs50.net/2017/x/psets/5/pset5.html)
 
-- [ ] Implement [Speller](http://docs.cs50.net/problems/speller/speller.html)
+- [x] Implement [Speller](http://docs.cs50.net/problems/speller/speller.html)
 
 
 ### [Problem Set 6: Sentimental](http://docs.cs50.net/2017/x/psets/6/pset6.html)
