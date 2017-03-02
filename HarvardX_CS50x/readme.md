@@ -69,17 +69,17 @@ Implement either of:
 ### [Problem Set 6: Sentimental](http://docs.cs50.net/2017/x/psets/6/pset6.html)
 
 Implement either of the below exactly as specified but in Python:
-  * [ ] [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable, in a file called mario.py in `pset6/`
-  * [ ] [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable, in a file called mario.py in `pset6/`
+  * [x] [Mario](http://docs.cs50.net/problems/mario/less/mario.html), less comfortable, in a file called mario.py in `pset6/`
+  * [x] [Mario](http://docs.cs50.net/problems/mario/more/mario.html), more comfortable, in a file called mario.py in `pset6/`
 
 Implement either of the below exactly as specified but in Python:
-  * [ ] [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable, in a file called greedy.py in `pset6/`
-  * [ ] [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable, in a file called credit.py in `pset6/`
+  * [x] [Greedy](http://docs.cs50.net/problems/greedy/greedy.html), less comfortable, in a file called greedy.py in `pset6/`
+  * [x] [Credit](http://docs.cs50.net/problems/credit/credit.html), more comfortable, in a file called credit.py in `pset6/`
 
 Implement any (one) of the below exactly as specified but in Python:
-  * [ ] [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable, in a file called caesar.py in `pset6/`
-  * [ ] [Vigenère](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable, in a file called vigenere.py in `pset6/`
-  * [ ] [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable, in a file called crack.py in `pset6/`
+  * [x] [Caesar](http://docs.cs50.net/problems/caesar/caesar.html), less comfortable, in a file called caesar.py in `pset6/`
+  * [x] [Vigenère](http://docs.cs50.net/problems/vigenere/vigenere.html), less comfortable, in a file called vigenere.py in `pset6/`
+  * [x] [Crack](http://docs.cs50.net/problems/crack/crack.html), more comfortable, in a file called crack.py in `pset6/`
 
 - [ ] Implement Sentiments in `pset6/sentiments/`
 
