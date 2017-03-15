@@ -22,28 +22,51 @@ def longest_run( L ):
 	Returns the sum of the longest run.
 	"""
 
+	"""
+		Plan
+		1. Ony by ONe Split List into Increasing and Descreasing sequenses
+		2. Filter Each one to the longest.
+		3. Compare Final Sequenses.
+		4. Return Sum.
+	"""
+
 	List = L[:]
 	length_Of_The_List = len(List);
 
+
+	# Initalizing two dictionaries that will store temporary details.
 	Directions = {
 		'increasing': {},
 		'decreasing': {},
 	}
 
+	# and declaring final storage for sequenses.
 	final_Sequenses = {};
 
 	for sequenses, direction in enumerate( Directions ) :
+		"""
+		Using this mething with actually having 2n order, but its OK,
+		due we have to compare elements of List only in one way, its simplier and easier to understand.
+		"""
 		if direction is 'decreasing':
 			List.reverse();
 
+		"""
+		Initial Declarations for starting indexes
+		"""
 		index_start = 0
 		index_end = 0
 		index_cur = 0
 
+
 		while True:
+
 			index_cur += 1
 
 
+			"""
+			Here we check is current element is bigger or equivalent as previous one. and if yes we storing his start index and length.
+			"""
 			if List[index_cur] >= List[index_cur - 1]:
 				index_end = index_cur;
 				sequenses = Directions.get(direction);
@@ -71,12 +94,18 @@ def longest_run( L ):
 			if (length_Of_The_List - 1) == index_cur:
 				break;
 
+		# just in case restore sequence
 		if direction is 'decreasing':
 			List.reverse();
 
+		"""
+		Now filtering/reducing our sequences. We are interested in longest one
+		if there two secquenses (of a same direction) we picking earliest one.
+		"""
+		# going though the loop again.
 		sequenses = Directions.get(direction);
 		for key in sequenses:
-
+			#
 			seq_Last = sequenses.get( key )
 			if final_Sequenses.get( direction, None) is None:
 				final_Sequenses.update({ direction: seq_Last })
@@ -103,11 +132,12 @@ def longest_run( L ):
 				return Sequense_A;
 			return Sequense_B;
 
-
+	# Longest run is our longest increasing/descrising sequense list
 	longest_Run = sequense_compare_and_return(
 					final_Sequenses.get( 'decreasing', (0,0,0) ),
 					final_Sequenses.get( 'increasing', (0,0,0) ) )
 
+	# the end.
 	return sum( List[ longest_Run[0] : longest_Run[1] + 1 ] );
 
 

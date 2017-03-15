@@ -1,3 +1,7 @@
+"""
+This dictionary is respresent mandarin names for basic numbers used to
+form a large ones.
+"""
 trans = {
 	'0':'ling',
 	'1':'yi',
@@ -12,10 +16,14 @@ trans = {
 	'10': 'shi'
 }
 
+
 def convert_to_mandarin(us_num) :
 	'''
 	us_num, a string representing a US number 0 to 99
 	returns the string mandarin representation of us_num
+
+	we using '{}'.format() to proccess response for requested int.
+
 	'''
 	if int(us_num) <= 10 :
 		return '{}'.format(
