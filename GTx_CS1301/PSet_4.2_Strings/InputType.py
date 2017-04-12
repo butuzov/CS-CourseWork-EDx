@@ -21,8 +21,8 @@
 
 #Write your function here!
 
-def input_type(*args):
-    s = args[0]
+def input_type():
+    s = input();
     if s == 'True' or s == 'False':
         return 'boolean';
 
