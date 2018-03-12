@@ -1,6 +1,6 @@
-# Go Programming
+# ʕ◔ϖ◔ʔ Go Programming
 
-## Mial.ru's Online University - TechStream Course
+## [Mial.ru's Online University - TechStream Course](https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I)
 
 ---
 
