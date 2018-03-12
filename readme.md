@@ -1,7 +1,6 @@
 # Computer Science Courses
 
-I am Full Stack Web Developer with expirience more then 12 years, BUT I don't have CS background. This repository holds list of CS courses I am taking at the moment as self-education programe, grading scores or result of it and problem sets required by course professor.
-
+Online CS Degree & Practices
 
  Done? | University Course | Assignments
 --------- | ----------------- | -----------
@@ -10,3 +9,5 @@ Yes | [Georgia Tech CS1301: Introduction to Computing using Python](https://www.
 Yes | [ MIT: 6.00.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) |  [MITx: 6.00.1x](/MITx_6.00.1x)
 Yes | [ MIT: 6.00.2x: Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5) |  [MITx: 6.00.2x](/MITx_6.00.2x)
 Yes | [KU Leuven: UML Class Diagrams for Software Engineering ](https://www.edx.org/course/uml-class-diagrams-software-engineering-kuleuvenx-umlx) | No assignments
+Ongoing | [Udacity: Deep Learning ](https://www.udacity.com/course/deep-learning--ud730) | No assignments
+Ongoing | [Tech Stream: Go Programming](https://www.youtube.com/playlist?list=PLrCZzMib1e9q-X5V9pTM6J0AemRWseM7I) | [Go Programming](/TechStream-Go-Programming)
